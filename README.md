@@ -14,3 +14,5 @@ computer vision and machine learning to classify the weather
 condition based on the image. We can make use of surveillance
 cameras which are readily available to get the image of the
 outdoors and detect the weather based on the Image and time.
+
+This project compares the accuracy, precsion and recall values of multiple Classification algorithms such as CNN, Decision Trees, Random forests, KNN and Naive Bayes to see which is the best for classifiying the weather.
