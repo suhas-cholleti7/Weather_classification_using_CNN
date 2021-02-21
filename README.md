@@ -1,5 +1,5 @@
-# Weather_classification_using_CNN
-Classification of weather using CNN and deep learning
+# Classification of weather using CNN and deep learning
+
 
 Weather plays a huge part in day to day life, from
 destroying crops to affecting people’s commute it affects every
